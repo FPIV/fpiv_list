@@ -34,7 +34,7 @@ Add `fpiv_list` to your `pubspec.yaml` dependencies:
 
 ```yaml
 dependencies:
-  fpiv_list: ^1.0.0 # Check pub.dev for the latest version
+  fpiv_list: ^0.1.0 # Check pub.dev for the latest version
 ```
 
 Then, import the library in your Dart code:

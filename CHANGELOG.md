@@ -1,4 +1,4 @@
-## [0.1.1] - 2025-08-20
+## [0.1.0] - 2025-08-20
 # add List algorithms
 
 ## 📋 List Algorithms
