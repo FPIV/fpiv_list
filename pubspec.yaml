@@ -1,6 +1,6 @@
 name: fpiv_list
 description: The core algorithm arsenal from FPIV. A high-performance, production-ready Dart library with 40+ algorithms for sorting, searching, and list manipulation.
-version: 1.0.0
+version: 0.1.0
 repository: https://github.com/FPIV/fpiv_list
 homepage: https://fpiv.org
 license: MIT
