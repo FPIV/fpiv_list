@@ -1,0 +1,49 @@
+Connecting to VM Service at ws://127.0.0.1:50974/QJyyD36ZDjY=/ws
+Connected to the VM Service.
+🚀 Starting FPIV List Algorithms Benchmark...
+============================================================
+Algorithm Name              | List Size |       Time (ms)
+------------------------------------------------------------
+Bubble Sort                 |      1000 |         11 ms
+Insertion Sort              |      1000 |          5 ms
+Selection Sort              |      1000 |          7 ms
+Gnome Sort                  |      1000 |          9 ms
+Odd-Even Sort               |      1000 |         11 ms
+Pancake Sort                |      1000 |         10 ms
+Cycle Sort                  |      1000 |         20 ms
+Comb Sort                   |      1000 |          2 ms
+Stooge Sort (slow!)         |      1000 |       1241 ms
+Quick Sort                  |      1000 |          1 ms
+Merge Sort                  |      1000 |          5 ms
+Heap Sort                   |      1000 |          1 ms
+Shell Sort                  |      1000 |          2 ms
+Counting Sort               |      1000 |          1 ms
+Radix Sort                  |      1000 |          4 ms
+Pigeonhole Sort             |      1000 |          1 ms
+Bitonic Sort                |      1000 |          2 ms
+Linear Search               |      1000 |          0 ms
+Binary Search               |      1000 |          0 ms
+Find Max                    |      1000 |          0 ms
+Find Min                    |      1000 |          0 ms
+Reverse List                |      1000 |          0 ms
+Find Duplicates             |      1000 |          2 ms
+Remove Duplicates           |      1000 |          2 ms
+Rotate Array Right          |      1000 |          0 ms
+Quickselect (k=size/2)      |      1000 |          0 ms
+Kadane's Algorithm          |      1000 |          0 ms
+Max Product Subarray        |      1000 |          2 ms
+Max Sum (k=10)              |      1000 |          0 ms
+Min Sum (k=10)              |      1000 |          0 ms
+Average (k=10)              |      1000 |          0 ms
+LIS Binary Search           |      1000 |          0 ms
+Two Sum Sorted              |      1000 |          0 ms
+Prefix Sum Calculation      |      1000 |          0 ms
+------------------------------------------------------------
+Bubble Sort                 |     10000 |        938 ms
+Insertion Sort              |     10000 |        258 ms
+Selection Sort              |     10000 |        412 ms
+Gnome Sort                  |     10000 |        559 ms
+Odd-Even Sort               |     10000 |        631 ms
+Pancake Sort                |     10000 |        645 ms
+Cycle Sort                  |     10000 |       1312 ms
+Comb Sort                   |     10000 |          5 ms
