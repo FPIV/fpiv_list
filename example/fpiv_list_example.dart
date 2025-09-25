@@ -3,8 +3,8 @@ import 'package:fpiv_list/fpiv_list.dart';
 void main() {
   var awesome = Awesome();
   print('awesome: ${awesome.isAwesome}');
-  
-    // =========================
+
+  // =========================
   // List Algorithms
   // =========================
   final numbers = <int>[1, 3, 5, 7, 9, 11, 13];

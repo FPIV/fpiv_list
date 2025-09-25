@@ -19,7 +19,6 @@ List<T>? twoSumSorted<T extends num>(List<T> list, T target) {
   int start = 0;
   int end = list.length - 1;
 
-
   while (start < end) {
     T left = list[start];
     T right = list[end];
